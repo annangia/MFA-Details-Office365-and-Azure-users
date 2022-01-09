@@ -78,4 +78,4 @@ $Result | select UserName, UserPrincipalName, UserType, MFAStatus, Method, MFAEm
 
 
 
-##################End of SCript#########################
+##################End of Script#########################
