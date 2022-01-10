@@ -13,7 +13,7 @@ Get MFA Details for All the users in Office 365 / Azure AD
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>With security defaults</li><li>With Conditional Access policies</li><li>For each individual user account</li></ul>
+<ul><li>With Conditional Access policies</li><li>For each individual user account</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
