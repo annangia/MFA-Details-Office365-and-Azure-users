@@ -1,4 +1,4 @@
-Get MFA Details for All the users in Office 365 / Azure AD
+**Get MFA Details for All the users in Office 365 / Azure AD**
 
 <!-- wp:paragraph -->
 <p>By default, both Microsoft 365 and Office 365 support MFA for user accounts using:</p>
