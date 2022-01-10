@@ -9,7 +9,7 @@ Get MFA Details for All the users in Office 365 / Azure AD
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>In both cases, the MFA sign-in is using the "something you have with you that is not easily duplicated" method for the additional verification. There are multiple ways in which you can enable MFA for Microsoft 365 and Office 365:</p>
+<p> There are multiple ways in which you can enable MFA for Microsoft 365 and Office 365:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
